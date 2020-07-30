@@ -5,3 +5,7 @@ function a(){
 function b(){
     console.log('world');
 }
+
+function c(){
+    console.log('welcome');
+}
