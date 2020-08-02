@@ -9,3 +9,7 @@ function b(){
 function c(){
     console.log('welcome');
 }
+
+function d(){
+    console.log('In a branch');
+}
